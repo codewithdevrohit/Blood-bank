@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#MR{
+    color: red !important;
+}
+
+nav a{
+    color: white !important;
+   font-size: 1.5rem !important;
+}
+
+#hero{
+    background-color: black;
+}
+
+#mar{
+    background-color: red !important;
+}
+
+#rk {
+    background-image: url("./blood_don-removebg-preview.png");
+    height: 100vh !important;
+    width: 60% !important;
+    color: white !important;
+    padding: 2rem !important;
+}
+
+#rk h1{
+    font-size: 3rem !important;
+}
+
+
+#ak .btn{
+    transition: 0.5s !important;
+}
+#ak .btn:hover{
+    background-color: red !important;
+}
+ #about{
+    background-color: whitesmoke !important;
+    height: 50vh !important;
+ }
+#about i {
+    color: red !important;
+    
+}
+
+#about .card{
+    box-shadow: 0 0 5 red !important;
+}
+
+#rk1 {
+    background-color: whitesmoke !important;
+}
+
+#rk1 i{
+    color: red !important;
+}
+
+.div1:hover{
+    background-color: black !important;
+    color: white !important;
+}
+
+#last .row{
+    display: flex !important;
+    justify-content: space-around !important;
+
+}
+
+#last{
+    background-color: whitesmoke !important;
+}
+
+#contact{
+    background-color: black !important;
+}
+
+
+#contact a{
+    text-decoration: none !important;
+}
+#contact .btn:hover{
+    background-color: yellow !important;
+} 
+
+#pr1{
+    background-image: url("./flower.jpg");
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+
+#pr1 .btn{
+/* visibility: hidden !important; */
+}
+#pr1 .btn:hover{
+background-color: red !important;
+/* visibility: visible !important; */
+
+}
